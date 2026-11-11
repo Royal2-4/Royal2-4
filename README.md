@@ -1,7 +1,7 @@
 # 💫 About Me:
 Recent grad in Software Engineering. This is my online repo for more public projects/use. 
 <br><br>
-Graduted with a BS in Honors with Dean's Grant and achieved concurrent Dean's List. Now, it's the real grind to find an full time job and fighting against AI recruitment processes. yayyyyy 
+Graduted with a BS in Honors with Dean's Grant and achieved concurrent Dean's List. Now, it's the real grind to find a full time job, while fighting against AI recruitment processes. yayyyyy 
 
 
 ## 🌐 Socials:
